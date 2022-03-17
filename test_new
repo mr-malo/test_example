@@ -1,0 +1,106 @@
+group,variable,value
+Can help customers better,Primarily from home,0.05
+Can help customers better,Primarily on-site,0.19
+Can help customers better,Split between home and on-site,0.04
+Can help customers better,24 or under,0.1
+Can help customers better,25 - 34,0.07
+Can help customers better,35 - 44,0.06
+Can help customers better,45 - 54,0.08
+Can help customers better,55 � 64,0.09
+Can help customers better,65 or over,0.15
+Can help customers better,Employees with a disability,0.08
+Can help customers better,Employees without a disability,0.08
+Can help customers better,Men,0.06
+Can help customers better,Women,0.09
+Can help customers better,Non-customer facing,0.04
+Can help customers better,Customer facing,0.14
+"Good technology, digital equipment",Primarily from home,0.09
+"Good technology, digital equipment",Primarily on-site,0.1
+"Good technology, digital equipment",Split between home and on-site,0.07
+"Good technology, digital equipment",24 or under,0.07
+"Good technology, digital equipment",25 - 34,0.08
+"Good technology, digital equipment",35 - 44,0.09
+"Good technology, digital equipment",45 - 54,0.1
+"Good technology, digital equipment",55 � 64,0.1
+"Good technology, digital equipment",65 or over,0.05
+"Good technology, digital equipment",Employees with a disability,0.09
+"Good technology, digital equipment",Employees without a disability,0.1
+"Good technology, digital equipment",Men,0.1
+"Good technology, digital equipment",Women,0.09
+"Good technology, digital equipment",Non-customer facing,0.09
+"Good technology, digital equipment",Customer facing,0.1
+"Quicker decisions, more productivity",Primarily from home,0.11
+"Quicker decisions, more productivity",Primarily on-site,0.06
+"Quicker decisions, more productivity",Split between home and on-site,0.09
+"Quicker decisions, more productivity",24 or under,0.06
+"Quicker decisions, more productivity",25 - 34,0.09
+"Quicker decisions, more productivity",35 - 44,0.11
+"Quicker decisions, more productivity",45 - 54,0.11
+"Quicker decisions, more productivity",55 � 64,0.08
+"Quicker decisions, more productivity",65 or over,0.08
+"Quicker decisions, more productivity",Employees with a disability,0.08
+"Quicker decisions, more productivity",Employees without a disability,0.1
+"Quicker decisions, more productivity",Men,0.1
+"Quicker decisions, more productivity",Women,0.1
+"Quicker decisions, more productivity",Non-customer facing,0.11
+"Quicker decisions, more productivity",Customer facing,0.08
+Closer relationships with colleagues,Primarily from home,0.06
+Closer relationships with colleagues,Primarily on-site,0.03
+Closer relationships with colleagues,Split between home and on-site,0.04
+Closer relationships with colleagues,24 or under,0.04
+Closer relationships with colleagues,25 - 34,0.06
+Closer relationships with colleagues,35 - 44,0.06
+Closer relationships with colleagues,45 - 54,0.05
+Closer relationships with colleagues,55 � 64,0.05
+Closer relationships with colleagues,65 or over,0.05
+Closer relationships with colleagues,Employees with a disability,0.05
+Closer relationships with colleagues,Employees without a disability,0.05
+Closer relationships with colleagues,Men,0.05
+Closer relationships with colleagues,Women,0.06
+Closer relationships with colleagues,Non-customer facing,0.06
+Closer relationships with colleagues,Customer facing,0.04
+Better work life balance,Primarily from home,0.19
+Better work life balance,Primarily on-site,0.13
+Better work life balance,Split between home and on-site,0.15
+Better work life balance,24 or under,0.14
+Better work life balance,25 - 34,0.19
+Better work life balance,35 - 44,0.2
+Better work life balance,45 - 54,0.17
+Better work life balance,55 � 64,0.15
+Better work life balance,65 or over,0.08
+Better work life balance,Employees with a disability,0.18
+Better work life balance,Employees without a disability,0.18
+Better work life balance,Men,0.15
+Better work life balance,Women,0.2
+Better work life balance,Non-customer facing,0.19
+Better work life balance,Customer facing,0.15
+Flexibility,Primarily from home,0.38
+Flexibility,Primarily on-site,0.2
+Flexibility,Split between home and on-site,0.45
+Flexibility,24 or under,0.23
+Flexibility,25 - 34,0.36
+Flexibility,35 - 44,0.4
+Flexibility,45 - 54,0.35
+Flexibility,55 � 64,0.28
+Flexibility,65 or over,0.2
+Flexibility,Employees with a disability,0.28
+Flexibility,Employees without a disability,0.36
+Flexibility,Men,0.37
+Flexibility,Women,0.33
+Flexibility,Non-customer facing,0.4
+Flexibility,Customer facing,0.26
+Working from home,Primarily from home,0.53
+Working from home,Primarily on-site,0.19
+Working from home,Split between home and on-site,0.47
+Working from home,24 or under,0.41
+Working from home,25 - 34,0.47
+Working from home,35 - 44,0.46
+Working from home,45 - 54,0.46
+Working from home,55 � 64,0.45
+Working from home,65 or over,0.4
+Working from home,Employees with a disability,0.51
+Working from home,Employees without a disability,0.45
+Working from home,Men,0.46
+Working from home,Women,0.46
+Working from home,Non-customer facing,0.5
+Working from home,Customer facing,0.39
